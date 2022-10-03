@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: michael's homepage
+theme: minima
+remote_theme: benbalter/retlab
+markdown: kramdown
 description: Bookmark this to keep an eye on my project updates!
